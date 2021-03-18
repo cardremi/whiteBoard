@@ -1,7 +1,7 @@
 <h1>WhiteBoards<h1>
 
-##Welcome To whiteBoard
+<h2>Welcome To whiteBoard<h2>
 
-###Online Collaborative To-Do List Platform
+<h3>Online Collaborative To-Do List Platform<h3>
 
 
