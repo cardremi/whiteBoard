@@ -3,6 +3,9 @@
 <h2>Welcome To whiteBoard<h2>
 <h3>Online Collaborative To-Do List Platform<h3>
   
-![Alt Text](./Src/Assets/Image/sc1.png)
+
+<a href="./Src/Assets/Image">
+  <img src="sc1.png" alt="png" width="150" height="150">
+</a>
 
 
